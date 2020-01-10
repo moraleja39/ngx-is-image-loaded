@@ -4,8 +4,8 @@
   "license": "MIT",
   "description": "Simple Angular 6+ directive that tells if an image is loaded.",
   "peerDependencies": {
-    "@angular/common": "^7.0.0",
-    "@angular/core": "^7.0.0"
+    "@angular/common": "^7.0.0 | ^8.0.0",
+    "@angular/core": "^7.0.0 | ^8.0.0"
   },
   "keywords": [
     "angular directive",
