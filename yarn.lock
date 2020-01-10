@@ -215,13 +215,6 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/http@~7.0.0":
-  version "7.0.4"
-  resolved "https://registry.yarnpkg.com/@angular/http/-/http-7.0.4.tgz#445d6a812d25ea1656fc3e3381ef82b3f98fccb4"
-  integrity sha512-oUGT7xS7FZYajuHq0DP6MgahacB5sJTRgxiUU4uhQ/mqV7aREODVJJgw7oHDhM7Cnyzzo0B9D0zpEljKmeCLWQ==
-  dependencies:
-    tslib "^1.9.0"
-
 "@angular/language-service@~8.2.14":
   version "8.2.14"
   resolved "https://registry.yarnpkg.com/@angular/language-service/-/language-service-8.2.14.tgz#e18b27a6841577ce489ad31540150da5a444ca37"
@@ -5505,13 +5498,6 @@ ng-packagr@5.7.1:
     stylus "^0.54.5"
     terser "^4.1.2"
     update-notifier "^3.0.0"
-
-ngx-is-image-loaded@^1.0.2:
-  version "1.0.4"
-  resolved "https://registry.yarnpkg.com/ngx-is-image-loaded/-/ngx-is-image-loaded-1.0.4.tgz#4125b13dd34a737a0088e3991068ef25736743d0"
-  integrity sha512-wH/MiET2ekmmdUQxzH+RKK+BvAV84B75ZXZTvRZKLsKiC3kp1vZUhOGoTC0ktRBISLAuhHUklw43uIizSZ/3LQ==
-  dependencies:
-    tslib "^1.9.0"
 
 nice-try@^1.0.4:
   version "1.0.5"

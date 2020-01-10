@@ -1,11 +1,11 @@
 {
-  "name": "ngx-is-image-loaded",
-  "version": "1.0.2",
+  "name": "@dovipas/ngx-is-image-loaded",
+  "version": "1.0.0",
   "license": "MIT",
   "description": "Simple Angular 6+ directive that tells if an image is loaded.",
   "peerDependencies": {
-    "@angular/common": "^7.0.0 | ^8.0.0",
-    "@angular/core": "^7.0.0 | ^8.0.0"
+    "@angular/common": "^8.0.0",
+    "@angular/core": "^8.0.0"
   },
   "keywords": [
     "angular directive",
@@ -19,13 +19,13 @@
     "is image loaded"
   ],
   "repository": {
-    "url": "https://github.com/kubadospial/ngx-is-image-loaded.git",
+    "url": "https://github.com/dovipas/ngx-is-image-loaded.git",
     "type": "git"
   },
   "author": "kubadospial (@kubadospial)",
   "bugs": {
-    "url": "https://github.com/kubadospial/ngx-is-image-loaded/issues"
+    "url": "https://github.com/dovipas/ngx-is-image-loaded/issues"
   },
-  "homepage": "https://github.com/kubadospial/ngx-is-image-loaded#readme",
+  "homepage": "https://github.com/dovipas/ngx-is-image-loaded#readme",
   "readmeFilename": "README.md"
 }

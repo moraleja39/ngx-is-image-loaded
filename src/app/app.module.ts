@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { NgModule } from '@angular/core';
-import { NgxIsImageLoadedModule } from 'ngx-is-image-loaded';
+import { NgxIsImageLoadedModule } from '@dovipas/ngx-is-image-loaded';
 import { AppComponent } from './app.component';
 import { LoaderComponent } from './loader/loader.component';
 
